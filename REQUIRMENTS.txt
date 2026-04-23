@@ -1,0 +1,14 @@
+REQUIRMENTS
+
+External libraries:
+    Pygamezero must be installed to play
+    pgzhelper must be within workspace
+
+Required files:
+    Flashlight
+    Leon
+    Doors
+    Items
+    Map
+
+All images in file must be dragged into images workspace, DO NOT drag the folders themselves in, it wont work.
